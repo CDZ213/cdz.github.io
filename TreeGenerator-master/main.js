@@ -152,10 +152,7 @@ function setup()
 	label_perf.position(10, 310);
 	//label_perf.style('display', 'none');
 	
-	label_source = createA('https://github.com/someuser-321/TreeGenerator', 'Check it out on GitHub!');
-	label_source.position(10, 330);
-	label_source2 = createA('https://someuser-321.github.io/TreeGenerator/TreeD.html', 'See me in 3D!');
-	label_source2.position(10, 350);
+
 	
 	div_inputs = createDiv('');
 	
